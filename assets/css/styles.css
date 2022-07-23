@@ -2,15 +2,11 @@
     --bs-body-bg: '#000000';
     --bs-dark-rgb: '#000000';
 }
-
-.body {
-}
-
 .hero {
     background-image: url("../img/run2.jpg");
     background-color: #cccccc;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
     position: absolute;
     top: 0px;
     right: 0px;
