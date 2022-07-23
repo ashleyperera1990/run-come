@@ -2,6 +2,10 @@
     --bs-body-bg: '#000000';
     --bs-dark-rgb: '#000000';
 }
+.main {
+    margin-top: 85px;
+}
+
 .hero {
     background-image: url("../img/run2.jpg");
     background-color: #cccccc;
@@ -16,6 +20,9 @@
     z-index: -200;
 }
 
+.sign-up-card {
+    width: 350px
+}
 .navbar-brand {
     font-family: 'Komu A', 'sans-serif';
     font-size: 2.5rem;
