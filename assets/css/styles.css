@@ -1,0 +1,37 @@
+:root {
+    --bs-body-bg: '#000000';
+    --bs-dark-rgb: '#000000';
+}
+
+.body {
+}
+
+.hero {
+    background-image: url("/assets/img/run2.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.3;
+    z-index: -200;
+}
+
+.navbar-brand {
+    font-family: 'Komu A', 'sans-serif';
+    font-size: 2.5rem;
+    padding-bottom: 0px;
+    color: #000000;
+}
+
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
