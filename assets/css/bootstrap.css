@@ -46,12 +46,7 @@
 
 @font-face {
     font-family: "Komu A";
-    src: url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.eot");
-    src: url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.eot?#iefix") format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.woff2") format("woff2"),
-    url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.woff") format("woff"),
-    url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.ttf") format("truetype"),
-    url("https://db.onlinewebfonts.com/t/7b50cc294a705c6968947e1786ae546a.svg#Komu A") format("svg");
+    src: url(/assets/fonts/Komu-A.ttf);
 }
 
 body {
